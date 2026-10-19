@@ -1,11 +1,9 @@
 (() => {
   // Preserve incoming links to the sections that now have their own documents.
   const formerSections = {
-    'sobre-mi': 'sobre-mi.html',
     experiencia: '2_experienciaLaboral.html',
     formacion: 'formacion.html',
     proyectos: '3_portafolio.html',
-    habilidades: 'habilidades.html',
     contacto: '4_contactame.html'
   };
   function followFormerSection() {
@@ -31,7 +29,7 @@
       const label = themeButton.querySelector('[data-theme-label]');
       if (label) label.textContent = dark ? 'Modo claro' : 'Modo oscuro';
     }
-    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#dff3e7' : '#e5f5e9');
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#10182b' : '#f5fbf7');
   }
   applyTheme(root.dataset.theme || 'dark');
   if (themeButton) {
@@ -96,6 +94,27 @@
     window.matchMedia('(min-width: 1001px)').addEventListener('change', event => {
       if (event.matches) setMenu(false);
     });
+  }
+
+  if (header && 'ResizeObserver' in window) {
+    new ResizeObserver(() => root.style.setProperty('--header-height', header.getBoundingClientRect().height + 'px')).observe(header);
+  }
+  const homeSections = document.querySelector('.home-main') ? [document.querySelector('.hero-panel'), document.getElementById('habilidades'), document.getElementById('sobre-mi')] : [];
+  if (homeSections.length) {
+    const updateActive = () => {
+      const threshold = (header?.getBoundingClientRect().bottom || 0) + 70;
+      let active = 'inicio';
+      homeSections.forEach((section, i) => { if (section.getBoundingClientRect().top <= threshold) active = ['inicio', 'habilidades', 'sobre-mi'][i]; });
+      if (window.scrollY + window.innerHeight >= document.documentElement.scrollHeight - 2 && homeSections[2].getBoundingClientRect().top < window.innerHeight) active = 'sobre-mi';
+      document.querySelectorAll('[data-home-section]').forEach(link => {
+        if (link.dataset.homeSection === active) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
+    };
+    let queued = false;
+    window.addEventListener('scroll', () => { if (!queued) { queued = true; requestAnimationFrame(() => { updateActive(); queued = false; }); } }, { passive: true });
+    window.addEventListener('resize', updateActive);
+    updateActive();
   }
 
   const filters = document.querySelector('[data-project-filters]');

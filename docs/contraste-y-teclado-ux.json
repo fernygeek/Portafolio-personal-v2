@@ -1,0 +1,134 @@
+[
+  {
+    "theme": "dark",
+    "ratios": [
+      {
+        "foreground": "--text",
+        "background": "--bg",
+        "ratio": 16.264898585321003
+      },
+      {
+        "foreground": "--muted",
+        "background": "--bg",
+        "ratio": 10.705115708127362
+      },
+      {
+        "foreground": "--text",
+        "background": "--card",
+        "ratio": 13.412664089333116
+      },
+      {
+        "foreground": "--muted",
+        "background": "--card",
+        "ratio": 8.82785221668334
+      },
+      {
+        "foreground": "--accent",
+        "background": "--card",
+        "ratio": 10.034550879681102
+      },
+      {
+        "foreground": "--button-text",
+        "background": "--button",
+        "ratio": 9.359036401908778
+      },
+      {
+        "foreground": "--nav-text",
+        "background": "--nav-bg",
+        "ratio": 9.866882958363478
+      },
+      {
+        "foreground": "--nav-active",
+        "background": "--nav-bg",
+        "ratio": 7.267323908784419
+      },
+      {
+        "foreground": "--error",
+        "background": "--card",
+        "ratio": 8.604701069190478
+      },
+      {
+        "foreground": "--success",
+        "background": "--card",
+        "ratio": 10.8312763849991
+      },
+      {
+        "foreground": "--muted",
+        "background": "--card-deep",
+        "ratio": 9.858010409928333
+      }
+    ],
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "ratios": [
+      {
+        "foreground": "--text",
+        "background": "--bg",
+        "ratio": 13.686643725094658
+      },
+      {
+        "foreground": "--muted",
+        "background": "--bg",
+        "ratio": 6.81591575458764
+      },
+      {
+        "foreground": "--text",
+        "background": "--card",
+        "ratio": 12.342277943324886
+      },
+      {
+        "foreground": "--muted",
+        "background": "--card",
+        "ratio": 6.146424819049333
+      },
+      {
+        "foreground": "--accent",
+        "background": "--card",
+        "ratio": 6.893025985683572
+      },
+      {
+        "foreground": "--button-text",
+        "background": "--button",
+        "ratio": 5.808104104198477
+      },
+      {
+        "foreground": "--nav-text",
+        "background": "--nav-bg",
+        "ratio": 9.331431544837875
+      },
+      {
+        "foreground": "--nav-active",
+        "background": "--nav-bg",
+        "ratio": 6.872944156239707
+      },
+      {
+        "foreground": "--error",
+        "background": "--card",
+        "ratio": 6.319796892508353
+      },
+      {
+        "foreground": "--success",
+        "background": "--card",
+        "ratio": 6.343421994589778
+      },
+      {
+        "foreground": "--muted",
+        "background": "--card-deep",
+        "ratio": 6.438418854749981
+      }
+    ],
+    "pass": true
+  },
+  {
+    "name": "Primer Tab: saltar contenido con foco visible",
+    "first": "skip-link",
+    "visible": true,
+    "pass": true
+  },
+  {
+    "name": "Enter salta al contenido principal",
+    "pass": true
+  }
+]

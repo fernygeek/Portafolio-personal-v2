@@ -1,40 +1,31 @@
 # Portafolio personal · Fernanda Rueda
 
-Portafolio con fondo verde menta y decoración botánica, paneles azul marino redondeados y una barra de navegación verde flotante. La portada combina una presentación con retrato y seis paneles: Sobre mí, Experiencia, Formación, Proyectos, Habilidades y Contacto. Los títulos usan Consolas y alternativas monoespaciadas; el cuerpo usa Segoe UI y fuentes del sistema. Implementado con HTML, CSS y JavaScript nativos, sin dependencias ni compilación.
+Sitio estático con HTML, CSS y JavaScript nativos, sin dependencias npm ni compilación. Identidad azul oscuro y verde menta, con tema claro opcional.
 
-Revisión visual actual: **19 de octubre de 2026**, siguiendo la nueva referencia verde elegida por la usuaria. La composición y las decisiones vigentes se describen en [Diseño verde](docs/DISENO_VERDE.md). Los documentos de la propuesta anterior se conservan como historial.
-
-## Abrir el sitio
-
-Abre `index.html` en un navegador. Para servirlo por HTTP con Node.js instalado:
+## Ejecutar
 
 ```powershell
 node scripts/servidor.mjs
 ```
 
-Visita **http://127.0.0.1:4173**. Detén el servidor con `Ctrl+C`. Si ese puerto está ocupado, puedes elegir otro:
+Abre http://127.0.0.1:4173. Detén el servidor con Ctrl+C; PORT permite seleccionar otro puerto.
 
-```powershell
-$env:PORT = '4174'
-node scripts/servidor.mjs
-```
+## Estructura actual
 
-## Contenido y estructura
+- index.html: Inicio → Habilidades → Sobre mí, con fotografía, diez tecnologías documentadas en los proyectos, biografía completa y resumen académico.
+- 2_experienciaLaboral.html: pasantía de 2023 e investigación de 2025, en orden ascendente.
+- 3_portafolio.html: nueve proyectos, filtros y descripciones completas.
+- 4_contactame.html: canales con logos locales y formulario con validación y confirmación de borrado.
+- formacion.html: formación y asignaturas vinculadas a los proyectos.
+- sobre-mi.html y habilidades.html: conservan las rutas anteriores y redirigen a Inicio, con enlace alternativo accesible.
+- estilos.css, app.js, tema.js y contacto.js: estilos y comportamiento compartidos.
+- img/logos/: SVG locales y licencias de Devicon y Font Awesome. Las catorce imágenes originales se conservan; el antiguo patrón botánico ya no se utiliza.
 
-- `index.html`: presentación y seis paneles en dos columnas en escritorio; biografía completa, formación en curso, experiencia, proyectos, habilidades y formulario de contacto integrado.
-- `3_portafolio.html`: nueve proyectos en una cuadrícula de dos columnas en escritorio y una en móvil; filtros por tecnología, descripciones originales y capturas ampliables.
-- `2_experienciaLaboral.html`: participación en investigación de 2025 y pasantía de 2023.
-- `4_contactame.html`: canales de contacto y formulario con los mismos campos y validación que el de Inicio.
-- `estilos.css`, `app.js`, `tema.js`, `contacto.js`: estilos e interacciones compartidas, tema y formulario.
-- `img/`: catorce imágenes originales conservadas y `botanica.svg`, recurso decorativo nuevo.
-- `docs/`: análisis, maquetas, registros y capturas de validación de cada versión.
-- `EVALUACION_HEURISTICAS.md`: matriz de las diez heurísticas y resultados reales de comprobación.
-
-El tema inicial combina paneles oscuros y fondo menta; también hay una variante clara. La preferencia se conserva entre páginas. Los filtros y el menú móvil se mejoran con JavaScript; el contenido y la navegación siguen disponibles sin él. La formación, los proyectos y las habilidades proceden del contenido original; no se añadieron CV, certificaciones, porcentajes de dominio ni datos profesionales inventados.
+La navegación permanece visible, resalta la página o sección activa y conserva el tema y Hablemos. Sin JavaScript, el contenido y los enlaces siguen disponibles. Se respeta la preferencia de movimiento reducido.
 
 ## Contacto
 
-Los formularios de Inicio y Contacto **validan y no envían mensajes**. Ambos solicitan nombre, correo, celular y mensaje, explican su alcance antes de introducir datos y al confirmar la validación, y protegen el borrado con una confirmación. No hay backend ni almacenamiento de esos datos. Los canales son los enlaces originales de LinkedIn y WhatsApp. El número `+593 99 999 9999` se conserva desde la fuente y sigue pendiente de confirmación; no se inventó un reemplazo ni un correo de destino.
+El formulario valida nombre, correo, celular ecuatoriano y mensaje. **No envía ni guarda los datos**. Conserva ayuda, errores y confirmación antes de borrar. Los enlaces originales permanecen; el número de WhatsApp de la fuente está pendiente de confirmación por la propietaria.
 
 ## Verificar
 
@@ -42,14 +33,20 @@ Los formularios de Inicio y Contacto **validan y no envían mensajes**. Ambos so
 node scripts/validar.mjs
 ```
 
-La comprobación estática revisa archivos, referencias locales, anclas y sintaxis JavaScript. La revisión verde pasó la comprobación de los cuatro HTML y tres JavaScript sin errores. No sustituye una revisión en navegador; el alcance y los límites figuran en [EVALUACION_HEURISTICAS.md](EVALUACION_HEURISTICAS.md).
+Revisa siete HTML, rutas, anclas y sintaxis de tres JavaScript del sitio. La revisión en Edge 155 obtuvo **47/47 comprobaciones funcionales**, más **22 pares de contraste de texto** en ambos temas y dos pruebas de teclado. Hay capturas de cinco páginas a 375, 768 y 1440 px en docs/capturas-ux/.
 
-La versión verde obtuvo **116/116 comprobaciones correctas en Edge 155**, con 24 vistas de las cuatro páginas sin desbordamiento ni imágenes rotas, pruebas de ambos formularios, filtros, menú, temas y alternativa sin JavaScript. Registro: [resultado-validacion-verde.json](docs/resultado-validacion-verde.json). Capturas: [Inicio escritorio](docs/capturas-verde/inicio-escritorio.png), [Inicio móvil](docs/capturas-verde/inicio-movil-completo.png), [Proyectos](docs/capturas-verde/proyectos-movil.png) y [Contacto](docs/capturas-verde/contacto-movil.png). No se probó lector de pantalla, zoom real al 200 % ni dispositivos físicos.
+Consulta [la evaluación y sus límites](EVALUACION_HEURISTICAS.md), [resultados funcionales](docs/resultado-validacion-ux.json), [contraste y teclado](docs/contraste-y-teclado-ux.json) y [conservación de contenido](docs/conservacion-contenidos-ux.json).
 
-El registro `docs/resultado-validacion.json` y las capturas de `docs/capturas/` documentan la **versión anterior**, que obtuvo 94/94 comprobaciones correctas. Ese resultado se conserva como historial separado de la validación verde actual.
+Para repetir las pruebas, inicia el servidor con PORT=18789 y una instancia independiente de Edge con depuración:
 
-## Publicación posterior
+```powershell
+Start-Process -FilePath 'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe' -ArgumentList '--headless','--disable-gpu','--no-first-run','--remote-debugging-port=19349',"--user-data-dir=$env:TEMP\fernanda-ux-qa",'about:blank' -WindowStyle Hidden
+node scripts/validar-navegador.mjs
+node scripts/validar-contraste.mjs
+```
 
-El sitio puede alojarse como archivos estáticos. Basta publicar los cuatro HTML, CSS, JavaScript, `favicon.svg` e `img/`, manteniendo las rutas. No se requiere un servidor de aplicación. Esta entrega no incluye publicación ni commits.
+Requiere Node.js 22 para WebSocket nativo. SITE_URL y CDP_URL permiten cambiar las direcciones predeterminadas. Los scripts regeneran informes y capturas. Cierra la instancia de pruebas y detén el servidor al terminar.
 
-La fuente original se describe como «Mi Web Personal: sitio web personal que muestra mi perfil profesional, experiencia, proyectos y un formulario de contacto con validación en HTML5». El ZIP y el portafolio original permanecieron intactos.
+## Publicación
+
+GitHub Pages sirve directamente HTML, CSS, JavaScript, favicon e imágenes, conservando las rutas relativas. No se modificó el despliegue ni se crearon commits o ejecutó push. Los informes anteriores se conservan como historial y no describen la distribución actual.

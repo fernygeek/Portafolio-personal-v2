@@ -1,0 +1,368 @@
+{
+  "date": "2026-10-19T10:56:25.824Z",
+  "browser": "Edge 155 headless",
+  "base": "http://127.0.0.1:18789/",
+  "total": 47,
+  "passed": 47,
+  "results": [
+    {
+      "name": "index.html 375 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 16,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "2_experienciaLaboral.html 375 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 16,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "3_portafolio.html 375 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 16,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "4_contactame.html 375 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 16,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "formacion.html 375 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 16,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "Inicio: tres secciones ordenadas 375",
+      "ok": true
+    },
+    {
+      "name": "Ancla visible y activa habilidades 375",
+      "ok": true,
+      "detail": {
+        "path": "/index.html",
+        "top": 100.59375,
+        "bottom": 77,
+        "active": "habilidades"
+      }
+    },
+    {
+      "name": "Ancla visible y activa sobre-mi 375",
+      "ok": true,
+      "detail": {
+        "path": "/index.html",
+        "top": 100.921875,
+        "bottom": 77,
+        "active": "sobre-mi"
+      }
+    },
+    {
+      "name": "Menú móvil abierto y foco en primer enlace",
+      "ok": true
+    },
+    {
+      "name": "Escape cierra menú y devuelve foco",
+      "ok": true
+    },
+    {
+      "name": "index.html 768 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "2_experienciaLaboral.html 768 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "3_portafolio.html 768 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "4_contactame.html 768 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "formacion.html 768 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "Inicio: tres secciones ordenadas 768",
+      "ok": true
+    },
+    {
+      "name": "Ancla visible y activa habilidades 768",
+      "ok": true,
+      "detail": {
+        "path": "/index.html",
+        "top": 100.59375,
+        "bottom": 77,
+        "active": "habilidades"
+      }
+    },
+    {
+      "name": "Ancla visible y activa sobre-mi 768",
+      "ok": true,
+      "detail": {
+        "path": "/index.html",
+        "top": 101.078125,
+        "bottom": 77,
+        "active": "sobre-mi"
+      }
+    },
+    {
+      "name": "index.html 1440 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "2_experienciaLaboral.html 1440 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "3_portafolio.html 1440 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "4_contactame.html 1440 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "formacion.html 1440 layout",
+      "ok": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "brand": "PORTAFOLIO",
+        "bodyFont": 18,
+        "sticky": "sticky",
+        "menuFont": 16,
+        "background": "none"
+      }
+    },
+    {
+      "name": "Inicio: tres secciones ordenadas 1440",
+      "ok": true
+    },
+    {
+      "name": "Ancla visible y activa habilidades 1440",
+      "ok": true,
+      "detail": {
+        "path": "/index.html",
+        "top": 104.5,
+        "bottom": 81,
+        "active": "habilidades"
+      }
+    },
+    {
+      "name": "Ancla visible y activa sobre-mi 1440",
+      "ok": true,
+      "detail": {
+        "path": "/index.html",
+        "top": 217.1875,
+        "bottom": 81,
+        "active": "sobre-mi"
+      }
+    },
+    {
+      "name": "Experiencia ascendente 2023 → 2025",
+      "ok": true
+    },
+    {
+      "name": "Filtro java",
+      "ok": true
+    },
+    {
+      "name": "Filtro python",
+      "ok": true
+    },
+    {
+      "name": "Filtro dotnet",
+      "ok": true
+    },
+    {
+      "name": "Filtro opengl",
+      "ok": true
+    },
+    {
+      "name": "Filtro all",
+      "ok": true
+    },
+    {
+      "name": "Tres canales con logo y nombre accesible",
+      "ok": true
+    },
+    {
+      "name": "Formulario vacío: cuatro errores y foco",
+      "ok": true
+    },
+    {
+      "name": "Celular válido 0991234567",
+      "ok": true
+    },
+    {
+      "name": "Celular válido +593 99-123-4567",
+      "ok": true
+    },
+    {
+      "name": "Cancelar limpieza conserva datos",
+      "ok": true
+    },
+    {
+      "name": "Confirmar limpieza vacía y devuelve foco",
+      "ok": true
+    },
+    {
+      "name": "Movimiento reducido",
+      "ok": true
+    },
+    {
+      "name": "Tema claro",
+      "ok": true
+    },
+    {
+      "name": "Tema persiste al navegar",
+      "ok": true
+    },
+    {
+      "name": "Regreso al tema oscuro",
+      "ok": true
+    },
+    {
+      "name": "Ruta anterior sobre-mi.html",
+      "ok": true
+    },
+    {
+      "name": "Ruta anterior habilidades.html",
+      "ok": true
+    },
+    {
+      "name": "Navegación disponible sin JavaScript",
+      "ok": true
+    },
+    {
+      "name": "Sin errores de JavaScript",
+      "ok": true
+    },
+    {
+      "name": "Sin recursos HTTP fallidos",
+      "ok": true
+    }
+  ]
+}

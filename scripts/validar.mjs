@@ -2,7 +2,7 @@
 import path from 'node:path';
 import {spawnSync} from 'node:child_process';
 const root = path.resolve(process.argv[2] || process.cwd());
-const expected = ['index.html','2_experienciaLaboral.html','3_portafolio.html','4_contactame.html'];
+const expected = ['index.html','2_experienciaLaboral.html','3_portafolio.html','4_contactame.html','formacion.html','sobre-mi.html','habilidades.html'];
 const errors=[], warnings=[], pages=new Map();
 const attributes = text => Object.fromEntries([...text.matchAll(/([\w:-]+)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s'"=<>`]+))/g)].map(m=>[m[1].toLowerCase(),m[2]??m[3]??m[4]]));
 for (const file of expected) {

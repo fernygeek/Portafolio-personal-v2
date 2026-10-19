@@ -1,0 +1,25 @@
+[
+  {
+    "check": "2_experienciaLaboral.html contenido original",
+    "pass": true,
+    "count": 2
+  },
+  {
+    "check": "3_portafolio.html contenido original",
+    "pass": true,
+    "count": 9
+  },
+  {
+    "check": "Biografía completa",
+    "pass": true
+  },
+  {
+    "check": "contacto.js intacto",
+    "pass": true
+  },
+  {
+    "check": "Imágenes originales intactas",
+    "pass": true,
+    "count": 14
+  }
+]
