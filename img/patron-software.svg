@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="480" viewBox="0 0 560 480" fill="none">
+  <g stroke="#4f936b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".16">
+    <!-- Laptop -->
+    <g transform="translate(34 48) rotate(-8 44 32)">
+      <rect x="10" y="0" width="68" height="46" rx="5"/>
+      <path d="M10 46 0 58c0 4 4 6 8 6h72c4 0 8-2 8-6L78 46M0 58h88M35 53h18"/>
+      <path d="m34 15-8 8 8 8m20-16 8 8-8 8m-8-19-4 22"/>
+    </g>
+    <!-- Code brackets -->
+    <g transform="translate(348 62) rotate(8 40 24)">
+      <path d="m22 6-20 18 20 18m40-36 20 18-20 18M49 0 35 48"/>
+    </g>
+    <!-- Terminal -->
+    <g transform="translate(216 218) rotate(-5 44 30)">
+      <rect width="88" height="64" rx="7"/>
+      <path d="M0 17h88m-70 16 9 8-9 8m20 0h20"/>
+      <circle cx="10" cy="9" r="1"/><circle cx="18" cy="9" r="1"/><circle cx="26" cy="9" r="1"/>
+    </g>
+    <!-- Version control branches -->
+    <g transform="translate(62 346) rotate(8 22 28)">
+      <circle cx="10" cy="8" r="6"/><circle cx="10" cy="56" r="6"/><circle cx="46" cy="8" r="6"/>
+      <path d="M10 14v36m36-36v7c0 19-36 9-36 29"/>
+    </g>
+    <!-- Curly braces -->
+    <g transform="translate(428 354) rotate(-8 30 28)">
+      <path d="M19 0C7 0 9 9 9 17c0 7-3 11-9 11 6 0 9 4 9 11 0 8-2 17 10 17m24-56c12 0 10 9 10 17 0 7 3 11 9 11-6 0-9 4-9 11 0 8 2 17-10 17"/>
+    </g>
+  </g>
+  <g fill="#4f936b" opacity=".13">
+    <circle cx="192" cy="116" r="3"/><circle cx="472" cy="214" r="3"/>
+    <circle cx="151" cy="278" r="2"/><circle cx="326" cy="411" r="2"/>
+    <path d="M180 389h12v2h-12zm5-5h2v12h-2zM467 127h12v2h-12zm5-5h2v12h-2z"/>
+  </g>
+</svg>

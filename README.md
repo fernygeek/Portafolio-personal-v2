@@ -2,6 +2,8 @@
 
 Sitio estático con HTML, CSS y JavaScript nativos, sin dependencias npm ni compilación. Identidad azul oscuro y verde menta, con tema claro opcional.
 
+Ambos modos incorporan el mismo patrón SVG local de computadoras, código, terminales y ramas de control de versiones, en verde suave sobre el fondo correspondiente a cada tema.
+
 ## Ejecutar
 
 ```powershell
