@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Los proyectos de Fernanda Rueda: desarrollo de software, inteligencia artificial, análisis de datos y computación gráfica.">
+    <title>Proyectos — Fernanda Rueda</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <meta name="theme-color" content="#0d0d0d">
+    <script src="tema.js"></script>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="app.js" defer></script>
+</head>
+<body id="inicio">
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" aria-label="Fernanda Rueda, inicio">Fernanda Rueda<span class="brand-dot" aria-hidden="true">.</span></a>
+      <nav class="primary-navigation" id="primary-navigation" data-navigation aria-label="Navegación principal">
+        <a href="index.html">Inicio</a>
+        <a href="3_portafolio.html" aria-current="page">Proyectos</a>
+        <a href="index.html#sobre-mi">Sobre mí</a>
+        <a href="2_experienciaLaboral.html">Experiencia</a>
+        <a href="4_contactame.html">Contacto</a>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activar modo claro" aria-pressed="true" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+          <span data-theme-label>Modo claro</span>
+        </button>
+        <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation" hidden><span>Menú</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+    <main id="contenido" tabindex="-1">
+        <section class="page-intro container" aria-labelledby="proyectos-titulo">
+            <p class="eyebrow">PORTAFOLIO</p>
+            <h1 class="section-title" id="proyectos-titulo">Ideas que se convierten<br>en <em>proyectos.</em></h1>
+            <p>Explora los proyectos que he desarrollado, aplicando mis habilidades en diferentes tecnologías y áreas.</p>
+        </section>
+
+        <section class="section container projects-section" aria-label="Mis proyectos">
+            <div class="project-filters" data-project-filters role="group" aria-label="Filtrar proyectos por tecnología" hidden>
+                <button type="button" data-filter="all" aria-pressed="true">Todos <span aria-hidden="true">09</span></button>
+                <button type="button" data-filter="java" aria-pressed="false">Java</button>
+                <button type="button" data-filter="python" aria-pressed="false">Python</button>
+                <button type="button" data-filter="dotnet" aria-pressed="false">C# / .NET</button>
+                <button type="button" data-filter="opengl" aria-pressed="false">OpenGL</button>
+            </div>
+            <p class="project-status" data-project-status role="status" aria-live="polite">9 proyectos para explorar.</p>
+
+            <div class="project-list">
+                <article class="project-entry" id="glaciares" data-project data-technologies="python" aria-labelledby="titulo-glaciares">
+                    <a class="project-media" href="img/antisana1.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar mapa de la investigación del glaciar Antisana 15">
+                        <img src="img/antisana1.png" width="1126" height="542" loading="lazy" alt="Mapa del área de estudio del glaciar Antisana 15">
+                    </a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 1 de 9">01</span>
+                        <p class="project-category">Investigación · Machine Learning</p>
+                        <h2 id="titulo-glaciares">Proyecto de Investigación en Machine Learning aplicado a Glaciares</h2>
+                        <p class="project-summary">Análisis del retroceso del glaciar Antisana 15 con datos climáticos, índices oceánicos y modelos predictivos.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>Python</li><li>KNN</li><li>Random Forest</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Proyecto de Investigación en Machine Learning aplicado a Glaciares</span></summary>
+                            <p>Participación en un proyecto de investigación sobre el retroceso del glaciar Antisana 15 mediante técnicas de Machine Learning en Python, aplicando modelos como KNN y Random Forest con datos climáticos e índices oceánicos. El estudio permitió analizar patrones de cambio glaciar y fortalecer habilidades en análisis de datos y modelado predictivo.</p>
+                            <a class="project-detail-image" href="img/antisana2.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar mapa de calor del análisis del glaciar Antisana 15"><img src="img/antisana2.png" width="924" height="631" loading="lazy" alt="Mapa de calor de las variables del estudio del glaciar Antisana 15"></a>
+                            <a class="text-link" href="https://doi.org/10.13140/RG.2.2.10598.74561" target="_blank" rel="noopener noreferrer">Leer investigación en ResearchGate <span aria-hidden="true">↗</span></a>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="ipets" data-project data-technologies="dotnet" aria-labelledby="titulo-ipets">
+                    <a class="project-media" href="img/ipets.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del proyecto iPets"><img src="img/ipets.png" width="987" height="664" loading="lazy" alt="Interfaz del sistema de gestión iPets"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 2 de 9">02</span>
+                        <p class="project-category">Ingeniería de Software y de Requerimientos</p>
+                        <h2 id="titulo-ipets">iPets</h2>
+                        <p class="project-summary">Gestión de clientes, mascotas, citas e inventario para los servicios estéticos de iPets Shop.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>C#</li><li>.NET</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de iPets</span></summary>
+                            <p>Proyecto de la materia de Ingeniería de Software y de Requerimientos. Se desarrolló el sistema SIGACCEM-PetGlow utilizando C# sobre la plataforma .NET, enfocado en la gestión y agendamiento de citas para servicios estéticos de mascotas. El sistema automatiza procesos en la tienda de mascotas iPets Shop como el registro de clientes y mascotas, la programación de citas y el control de inventario mediante una arquitectura modular, mejorando la eficiencia operativa y reduciendo errores asociados a la gestión manual. Además, integra una interfaz intuitiva que facilita la organización de la información y optimiza la atención al cliente.</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="agente-viajero" data-project data-technologies="java" aria-labelledby="titulo-agente-viajero">
+                    <a class="project-media" href="img/agenteViajero.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del Problema del Agente Viajero"><img src="img/agenteViajero.png" width="790" height="532" loading="lazy" alt="Interfaz con mapa y rutas del Problema del Agente Viajero"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 3 de 9">03</span>
+                        <p class="project-category">EDA II · Algoritmos y optimización</p>
+                        <h2 id="titulo-agente-viajero">Problema del Agente Viajero</h2>
+                        <p class="project-summary">Una aplicación interactiva para seleccionar ciudades sobre un mapa y visualizar la ruta óptima del viajero.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>Java</li><li>Swing</li><li>OpenStreetMap</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Problema del Agente Viajero</span></summary>
+                            <p>Proyecto de la materia de EDA II. Trata de una aplicación interactiva en Java para la simulación del Problema del Viajero (TSP), implementando algoritmos de grafos y técnicas de optimización como backtracking y ramificación y poda. El sistema permite al usuario ingresar ciudades sobre un mapa, calcular la ruta óptima y visualizar el recorrido en una interfaz gráfica construida con librerías como Swing y herramientas de mapas basadas en OpenStreetMap.</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="ayudantes" data-project data-technologies="java" aria-labelledby="titulo-ayudantes">
+                    <a class="project-media" href="img/sistemaAyudantes.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del Sistema de Gestión de Ayudantes de Investigación"><img src="img/sistemaAyudantes.png" width="920" height="435" loading="lazy" alt="Interfaz del Sistema de Gestión de Ayudantes de Investigación"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 4 de 9">04</span>
+                        <p class="project-category">Diseño de Software · Gestión académica</p>
+                        <h2 id="titulo-ayudantes">Sistema de Gestión de Ayudantes de Investigación</h2>
+                        <p class="project-summary">Control y seguimiento de la participación de estudiantes en proyectos académicos con arquitectura MVC.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>Java</li><li>JavaFX</li><li>JPA / Hibernate</li><li>MySQL</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Sistema de Gestión de Ayudantes de Investigación</span></summary>
+                            <p>Proyecto realizado en la materia de Diseño de Software. Se desarrolló un sistema de gestión de ayudantes de investigación utilizando Java, enfocado en el control y seguimiento de la participación de estudiantes en proyectos académicos. El sistema implementa el patrón de arquitectura MVC (Modelo-Vista-Controlador), integrando una interfaz gráfica desarrollada con JavaFX y una capa de persistencia basada en JPA/Hibernate conectada a MySQL.</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="electrostock" data-project data-technologies="python" aria-labelledby="titulo-electrostock">
+                    <a class="project-media" href="img/agenteIA.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del proyecto ElectroStock IA"><img src="img/agenteIA.png" width="1563" height="728" loading="lazy" alt="Interfaz del agente inteligente de inventarios ElectroStock IA"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 5 de 9">05</span>
+                        <p class="project-category">Inteligencia Artificial y Aprendizaje Automático</p>
+                        <h2 id="titulo-electrostock">ElectroStock IA</h2>
+                        <p class="project-summary">Un agente inteligente con un modelo de lenguaje local para gestionar inventarios de PYMES ecuatorianas.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>Python</li><li>Ollama</li><li>FastAPI</li><li>ToolCallingAgent</li><li>SQL Server</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de ElectroStock IA</span></summary>
+                            <p>Proyecto realizado en la materia de Inteligencia Artificial y Aprendizaje Automático. Se desarrolló un agente inteligente para la gestión de inventarios en PYMES ecuatorianas, implementado en Python. El sistema utiliza un modelo de lenguaje (LLM) ejecutado localmente con Ollama, integrando una arquitectura por capas que incluye una API REST desarrollada con FastAPI, un agente de razonamiento (ToolCallingAgent) y una base de datos en SQL Server.</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="tienda-maruja" data-project data-technologies="dotnet" aria-labelledby="titulo-tienda-maruja">
+                    <a class="project-media" href="img/tiendaMaruja.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del proyecto Tienda Maruja"><img src="img/tiendaMaruja.png" width="1044" height="684" loading="lazy" alt="Interfaz de gestión de ventas e inventario de Tienda Maruja"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 6 de 9">06</span>
+                        <p class="project-category">Bases de Datos Distribuidas</p>
+                        <h2 id="titulo-tienda-maruja">Tienda Maruja</h2>
+                        <p class="project-summary">Ventas e inventario para múltiples sucursales mediante una base de datos distribuida con fragmentación y replicación.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>C#</li><li>.NET</li><li>Bases de datos distribuidas</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Tienda Maruja</span></summary>
+                            <p>Proyecto de la materia de Bases de Datos Distribuidas. Se desarrolló un sistema de base de datos distribuida con fragmentación y replicación de datos, integrando una aplicación que permite realizar operaciones CRUD y gestionar ventas e inventario en múltiples sucursales en tiempo real. Para la interfaz se utilizó C# sobre la plataforma .NET</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="realidad-aumentada" data-project data-technologies="python opengl" aria-labelledby="titulo-realidad-aumentada">
+                    <a class="project-media" href="img/realidadAumentada.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del proyecto Realidad Aumentada"><img src="img/realidadAumentada.png" width="1180" height="455" loading="lazy" alt="Demostración de un modelo 3D superpuesto a un marcador ArUco"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 7 de 9">07</span>
+                        <p class="project-category">Computación Gráfica · Realidad aumentada</p>
+                        <h2 id="titulo-realidad-aumentada">Realidad Aumentada</h2>
+                        <p class="project-summary">Detección de marcadores ArUco y superposición de modelos 3D sobre la imagen de la cámara en tiempo real.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>Python</li><li>OpenCV</li><li>OpenGL</li><li>ArUco</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Realidad Aumentada</span></summary>
+                            <p>Aplicación desarrollada en la materia de Computación Gráfica. Se implementó una aplicación de Realidad Aumentada en Python con OpenCV y OpenGL para detectar marcadores ArUco calibrados y superponer un modelo 3D sobre ellos en tiempo real.</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="dron" data-project data-technologies="opengl" aria-labelledby="titulo-dron">
+                    <a class="project-media" href="img/dronSimulator.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen de Dron Simulator"><img src="img/dronSimulator.png" width="1321" height="773" loading="lazy" alt="Entorno tridimensional de Dron Simulator"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 8 de 9">08</span>
+                        <p class="project-category">Computación Gráfica · Simulación</p>
+                        <h2 id="titulo-dron">Dron Simulator</h2>
+                        <p class="project-summary">Un simulador de dron que combina modelos 3D, texturas, materiales e iluminación en OpenGL.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>OpenGL</li><li>Gráficos 3D</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Dron Simulator</span></summary>
+                            <p>Proyecto desarrollado en la materia de Computación Gráfica. Se implementó un simulador de dron en OpenGL. El proyecto integró conceptos avanzados de gráficos computacionales como texturas, visualización 3D, materiales, iluminación (point lights y flash lights) y carga de modelos 3D importados.</p>
+                        </details>
+                    </div>
+                </article>
+
+                <article class="project-entry" id="polinvaders" data-project data-technologies="java" aria-labelledby="titulo-polinvaders">
+                    <a class="project-media" href="img/polinvaders.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar imagen del videojuego Polinvaders"><img src="img/polinvaders.png" width="827" height="764" loading="lazy" alt="Pantalla del videojuego Polinvaders inspirado en Space Invaders"></a>
+                    <div class="project-content">
+                        <span class="project-number" aria-label="Proyecto 9 de 9">09</span>
+                        <p class="project-category">Programación II · Videojuegos</p>
+                        <h2 id="titulo-polinvaders">Polinvaders</h2>
+                        <p class="project-summary">Un videojuego inspirado en Space Invaders, con programación orientada a objetos y eventos en tiempo real.</p>
+                        <ul class="tech-list" aria-label="Tecnologías del proyecto"><li>Java</li><li>Programación orientada a objetos</li></ul>
+                        <details class="project-details">
+                            <summary>Leer descripción completa<span class="sr-only"> de Polinvaders</span></summary>
+                            <p>Proyecto de la materia Programación II sobre el desarrollo de un videojuego en Java basado en Space Invaders, implementado con arquitectura en capas y programación orientada a objetos, integrando lógica de juego, interfaz gráfica y manejo de eventos en tiempo real.</p>
+                        </details>
+                    </div>
+                </article>
+            </div>
+
+            <div class="filter-empty" hidden>
+                <p>No hay proyectos para este filtro.</p>
+                <button class="button button-secondary" type="button" data-reset-filters>Ver todos los proyectos</button>
+            </div>
+        </section>
+
+        <section class="contact-banner container section" aria-labelledby="proyectos-contacto-titulo">
+            <div><p class="eyebrow">SIGAMOS CONVERSANDO</p><h2 class="section-title" id="proyectos-contacto-titulo">¿Tienes una idea<br>en <em>mente?</em></h2><p>Me encantará conocer tu proyecto y conversar.</p></div>
+            <a class="button button-primary" href="4_contactame.html">Hablemos <span aria-hidden="true">↗</span></a>
+        </section>
+    </main>
+
+  <footer class="site-footer"><div class="container footer-inner"><p>© 2026 Fernanda Rueda. Todos los derechos reservados.</p><div class="footer-links"><a href="https://github.com/fernygeek" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="https://www.linkedin.com/in/ruth-fernanda-rueda" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="#inicio">Volver arriba <span aria-hidden="true">↑</span></a></div></div></footer>
+</body>
+</html>

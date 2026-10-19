@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Portafolio de Fernanda Rueda, estudiante de Ingeniería de Software en la Escuela Politécnica Nacional. Proyectos de software, datos y computación gráfica.">
+  <meta name="theme-color" content="#0d0d0d">
+  <title>Fernanda Rueda · Portafolio</title>
+  <script src="tema.js"></script>
+  <link rel="stylesheet" href="estilos.css">
+  <script src="app.js" defer></script>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+</head>
+<body id="inicio">
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" aria-label="Fernanda Rueda, inicio">Fernanda Rueda<span class="brand-dot" aria-hidden="true">.</span></a>
+      <nav class="primary-navigation" id="primary-navigation" data-navigation aria-label="Navegación principal">
+        <a href="index.html" aria-current="page">Inicio</a>
+        <a href="3_portafolio.html">Proyectos</a>
+        <a href="index.html#sobre-mi">Sobre mí</a>
+        <a href="2_experienciaLaboral.html">Experiencia</a>
+        <a href="4_contactame.html">Contacto</a>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activar modo claro" aria-pressed="true" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+          <span data-theme-label>Modo claro</span>
+        </button>
+        <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation" hidden><span>Menú</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="contenido" tabindex="-1">
+    <section class="hero container" aria-labelledby="presentacion">
+      <div class="hero-copy">
+        <p class="eyebrow">Software · Datos · Aprendizaje</p>
+        <h1 id="presentacion">Fernanda<br>Rueda</h1>
+        <p class="hero-role">Estudiante de Ingeniería de Software</p>
+        <p class="hero-description">Desarrollo de software, análisis de datos y aprendizaje continuo.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="3_portafolio.html">Ver proyectos <span aria-hidden="true">↗</span></a>
+          <a class="button button-secondary" href="4_contactame.html">Contacto</a>
+        </div>
+      </div>
+      <figure class="hero-portrait">
+        <div class="portrait-frame"><img src="img/fotoPerfil.jpg" alt="Retrato de Fernanda Rueda" width="1095" height="1600" fetchpriority="high"></div>
+        <figcaption>Fernanda Rueda</figcaption>
+      </figure>
+    </section>
+
+    <section class="section featured-section" aria-labelledby="proyectos-seleccionados">
+      <div class="container">
+        <div class="section-heading">
+          <div><p class="eyebrow">Una selección de mi trabajo</p><h2 class="section-title" id="proyectos-seleccionados">Proyectos seleccionados</h2></div>
+          <a class="text-link" href="3_portafolio.html">Ver los 9 proyectos <span aria-hidden="true">↗</span></a>
+        </div>
+        <article class="featured-project featured-project-primary" aria-labelledby="destacado-glaciares">
+          <a class="featured-image" href="3_portafolio.html#glaciares" aria-label="Ver el proyecto de investigación del glaciar Antisana 15"><img src="img/antisana1.png" width="1126" height="542" loading="lazy" alt="Mapa de ubicación del glaciar Antisana en Ecuador y de los glaciares AG15 y AG12"></a>
+          <div class="featured-content">
+            <p class="eyebrow">Investigación en Machine Learning</p>
+            <h3 id="destacado-glaciares">Antisana 15</h3>
+            <p>Participación en una investigación sobre el retroceso glaciar mediante modelos predictivos y datos climáticos.</p>
+            <ul class="tech-list" aria-label="Tecnologías de Antisana 15"><li>Python</li><li>KNN</li><li>Random Forest</li></ul>
+            <a class="text-link" href="3_portafolio.html#glaciares">Ver proyecto <span aria-hidden="true">↗</span></a>
+          </div>
+        </article>
+        <article class="featured-project featured-project-secondary" aria-labelledby="destacado-ipets">
+          <a class="featured-image" href="3_portafolio.html#ipets" aria-label="Ver el proyecto iPets"><img src="img/ipets.png" width="987" height="664" loading="lazy" alt="Pantalla del sistema de gestión de iPets Shop con módulos de compras, clientes, citas y facturación"></a>
+          <div class="featured-content"><p class="eyebrow">Desarrollo de software</p><h3 id="destacado-ipets">iPets</h3><p>Gestión de clientes, mascotas, citas e inventario.</p><ul class="tech-list" aria-label="Tecnologías de iPets"><li>C#</li><li>.NET</li></ul></div>
+          <a class="text-link" href="3_portafolio.html#ipets">Ver proyecto <span aria-hidden="true">↗</span></a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section about-section container" id="sobre-mi" aria-labelledby="sobre-mi-titulo">
+      <div class="about-heading"><p class="eyebrow">Un poco sobre mí</p><h2 class="section-title" id="sobre-mi-titulo">Aprender, crear<br>y seguir creciendo.</h2></div>
+      <div class="about-content">
+        <p>Hola, mi nombre es Fernanda Rueda, estudiante de la carrera de Ingeniería de Software en la Escuela Politécnica Nacional y puedo describirme como una persona amigable, perseverante y entusiasta. Me gusta aprender nuevos temas, disfrutar de las cosas sencillas de la vida, capacitarme para mejorar mis habilidades, enfrentarme a nuevos retos y estoy comprometida con mi formación profesional y con mi desarrollo personal.</p>
+        <div class="skills-block"><h3>Tecnologías de mis proyectos</h3><ul class="skills-list" aria-label="Habilidades y tecnologías"><li><span aria-hidden="true">01</span>Java</li><li><span aria-hidden="true">02</span>Python</li><li><span aria-hidden="true">03</span>C#</li><li><span aria-hidden="true">04</span>.NET</li><li><span aria-hidden="true">05</span>MySQL</li></ul></div>
+        <a class="text-link" href="2_experienciaLaboral.html">Conoce mi experiencia <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="section experience-preview" aria-labelledby="trayectoria-titulo">
+      <div class="container">
+        <div class="section-heading"><div><p class="eyebrow">Formación en práctica</p><h2 class="section-title" id="trayectoria-titulo">Mi experiencia</h2></div><a class="text-link" href="2_experienciaLaboral.html">Ver experiencia completa <span aria-hidden="true">↗</span></a></div>
+        <a class="experience-preview-row" href="2_experienciaLaboral.html#investigacion"><time datetime="2025">2025</time><div><h3>Investigación en Machine Learning</h3><p>Glaciar Antisana 15 · Participación en investigación</p></div><span aria-hidden="true">↗</span></a>
+        <a class="experience-preview-row" href="2_experienciaLaboral.html#pasantia"><time datetime="2023">2023</time><div><h3>Pasante</h3><p>Agencia de Regulación y Control de Energía y Recursos Naturales no Renovables</p></div><span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="contact-banner container" aria-labelledby="contacto-titulo"><div><p class="eyebrow">Sigamos en contacto</p><h2 class="section-title" id="contacto-titulo">¿Tienes una idea o proyecto?<br>Conversemos.</h2></div><div class="contact-banner-actions"><a class="button button-primary" href="4_contactame.html">Contacto <span aria-hidden="true">↗</span></a><a class="text-link" href="https://wa.me/593999999999" target="_blank" rel="noopener noreferrer">WhatsApp <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a></div></section>
+  </main>
+
+  <footer class="site-footer"><div class="container footer-inner"><p>© 2026 Fernanda Rueda. Todos los derechos reservados.</p><div class="footer-links"><a href="https://github.com/fernygeek" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="https://www.linkedin.com/in/ruth-fernanda-rueda" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="#inicio">Volver arriba <span aria-hidden="true">↑</span></a></div></div></footer>
+</body>
+</html>

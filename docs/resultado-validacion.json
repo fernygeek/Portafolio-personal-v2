@@ -1,0 +1,3437 @@
+{
+    "browser":  "Edge 155.0.4283.62",
+    "viewports":  [
+                      {
+                          "page":  "index.html",
+                          "width":  320,
+                          "scrollWidth":  320,
+                          "bodyScrollWidth":  320,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "3_portafolio.html",
+                          "width":  320,
+                          "scrollWidth":  320,
+                          "bodyScrollWidth":  320,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "2_experienciaLaboral.html",
+                          "width":  320,
+                          "scrollWidth":  320,
+                          "bodyScrollWidth":  320,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "4_contactame.html",
+                          "width":  320,
+                          "scrollWidth":  320,
+                          "bodyScrollWidth":  320,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "index.html",
+                          "width":  360,
+                          "scrollWidth":  360,
+                          "bodyScrollWidth":  360,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "3_portafolio.html",
+                          "width":  360,
+                          "scrollWidth":  360,
+                          "bodyScrollWidth":  360,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "2_experienciaLaboral.html",
+                          "width":  360,
+                          "scrollWidth":  360,
+                          "bodyScrollWidth":  360,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "4_contactame.html",
+                          "width":  360,
+                          "scrollWidth":  360,
+                          "bodyScrollWidth":  360,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "index.html",
+                          "width":  390,
+                          "scrollWidth":  390,
+                          "bodyScrollWidth":  390,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "3_portafolio.html",
+                          "width":  390,
+                          "scrollWidth":  390,
+                          "bodyScrollWidth":  390,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "2_experienciaLaboral.html",
+                          "width":  390,
+                          "scrollWidth":  390,
+                          "bodyScrollWidth":  390,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "4_contactame.html",
+                          "width":  390,
+                          "scrollWidth":  390,
+                          "bodyScrollWidth":  390,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "index.html",
+                          "width":  768,
+                          "scrollWidth":  768,
+                          "bodyScrollWidth":  768,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "3_portafolio.html",
+                          "width":  768,
+                          "scrollWidth":  768,
+                          "bodyScrollWidth":  768,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "2_experienciaLaboral.html",
+                          "width":  768,
+                          "scrollWidth":  768,
+                          "bodyScrollWidth":  768,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "4_contactame.html",
+                          "width":  768,
+                          "scrollWidth":  768,
+                          "bodyScrollWidth":  768,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "index.html",
+                          "width":  1024,
+                          "scrollWidth":  1009,
+                          "bodyScrollWidth":  1009,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "3_portafolio.html",
+                          "width":  1024,
+                          "scrollWidth":  1009,
+                          "bodyScrollWidth":  1009,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "2_experienciaLaboral.html",
+                          "width":  1024,
+                          "scrollWidth":  1009,
+                          "bodyScrollWidth":  1009,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "4_contactame.html",
+                          "width":  1024,
+                          "scrollWidth":  1009,
+                          "bodyScrollWidth":  1009,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "index.html",
+                          "width":  1440,
+                          "scrollWidth":  1425,
+                          "bodyScrollWidth":  1425,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "3_portafolio.html",
+                          "width":  1440,
+                          "scrollWidth":  1425,
+                          "bodyScrollWidth":  1425,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "2_experienciaLaboral.html",
+                          "width":  1440,
+                          "scrollWidth":  1425,
+                          "bodyScrollWidth":  1425,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      },
+                      {
+                          "page":  "4_contactame.html",
+                          "width":  1440,
+                          "scrollWidth":  1425,
+                          "bodyScrollWidth":  1425,
+                          "overflow":  false,
+                          "broken":  [
+
+                                     ],
+                          "offenders":  [
+
+                                        ],
+                          "theme":  "dark"
+                      }
+                  ],
+    "checks":  [
+                   {
+                       "name":  "responsive index.html 320",
+                       "passed":  true,
+                       "scrollWidth":  320,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 3_portafolio.html 320",
+                       "passed":  true,
+                       "scrollWidth":  320,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 2_experienciaLaboral.html 320",
+                       "passed":  true,
+                       "scrollWidth":  320,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 4_contactame.html 320",
+                       "passed":  true,
+                       "scrollWidth":  320,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive index.html 360",
+                       "passed":  true,
+                       "scrollWidth":  360,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 3_portafolio.html 360",
+                       "passed":  true,
+                       "scrollWidth":  360,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 2_experienciaLaboral.html 360",
+                       "passed":  true,
+                       "scrollWidth":  360,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 4_contactame.html 360",
+                       "passed":  true,
+                       "scrollWidth":  360,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive index.html 390",
+                       "passed":  true,
+                       "scrollWidth":  390,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 3_portafolio.html 390",
+                       "passed":  true,
+                       "scrollWidth":  390,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 2_experienciaLaboral.html 390",
+                       "passed":  true,
+                       "scrollWidth":  390,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 4_contactame.html 390",
+                       "passed":  true,
+                       "scrollWidth":  390,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive index.html 768",
+                       "passed":  true,
+                       "scrollWidth":  768,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 3_portafolio.html 768",
+                       "passed":  true,
+                       "scrollWidth":  768,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 2_experienciaLaboral.html 768",
+                       "passed":  true,
+                       "scrollWidth":  768,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 4_contactame.html 768",
+                       "passed":  true,
+                       "scrollWidth":  768,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive index.html 1024",
+                       "passed":  true,
+                       "scrollWidth":  1009,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 3_portafolio.html 1024",
+                       "passed":  true,
+                       "scrollWidth":  1009,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 2_experienciaLaboral.html 1024",
+                       "passed":  true,
+                       "scrollWidth":  1009,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 4_contactame.html 1024",
+                       "passed":  true,
+                       "scrollWidth":  1009,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive index.html 1440",
+                       "passed":  true,
+                       "scrollWidth":  1425,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 3_portafolio.html 1440",
+                       "passed":  true,
+                       "scrollWidth":  1425,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 2_experienciaLaboral.html 1440",
+                       "passed":  true,
+                       "scrollWidth":  1425,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "responsive 4_contactame.html 1440",
+                       "passed":  true,
+                       "scrollWidth":  1425,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ]
+                   },
+                   {
+                       "name":  "keyboard skip link visible with focus outline",
+                       "passed":  true,
+                       "text":  "Saltar al contenido",
+                       "skip":  true,
+                       "visible":  true,
+                       "outline":  "3px",
+                       "outlineStyle":  "solid"
+                   },
+                   {
+                       "name":  "skip link focuses main",
+                       "passed":  true
+                   },
+                   {
+                       "name":  "mobile menu opens and aria-expanded updates",
+                       "passed":  true,
+                       "expanded":  "true",
+                       "display":  "flex",
+                       "label":  "Cerrar"
+                   },
+                   {
+                       "name":  "mobile menu allows forward keyboard navigation",
+                       "passed":  true,
+                       "focusInNav":  true,
+                       "active":  "\u003ca href=\"3_portafolio.html\"\u003eProyectos\u003c/a\u003e",
+                       "expanded":  "true"
+                   },
+                   {
+                       "name":  "mobile menu Escape closes and restores focus",
+                       "passed":  true,
+                       "expanded":  "false",
+                       "focusRestored":  true
+                   },
+                   {
+                       "name":  "mobile menu toggle closes",
+                       "passed":  true
+                   },
+                   {
+                       "name":  "project filter java returns 3",
+                       "passed":  true,
+                       "count":  3,
+                       "pressed":  "true",
+                       "status":  "3 proyectos en esta selección"
+                   },
+                   {
+                       "name":  "project filter python returns 3",
+                       "passed":  true,
+                       "count":  3,
+                       "pressed":  "true",
+                       "status":  "3 proyectos en esta selección"
+                   },
+                   {
+                       "name":  "project filter dotnet returns 2",
+                       "passed":  true,
+                       "count":  2,
+                       "pressed":  "true",
+                       "status":  "2 proyectos en esta selección"
+                   },
+                   {
+                       "name":  "project filter opengl returns 2",
+                       "passed":  true,
+                       "count":  2,
+                       "pressed":  "true",
+                       "status":  "2 proyectos en esta selección"
+                   },
+                   {
+                       "name":  "project filter all returns 9",
+                       "passed":  true,
+                       "count":  9,
+                       "pressed":  "true",
+                       "status":  "9 proyectos · Catálogo completo"
+                   },
+                   {
+                       "name":  "project details expand via pointer",
+                       "passed":  true
+                   },
+                   {
+                       "name":  "hash change reveals filtered project and expands details",
+                       "passed":  true,
+                       "visible":  true,
+                       "open":  true,
+                       "all":  "true"
+                   },
+                   {
+                       "name":  "final home layout 768",
+                       "passed":  true,
+                       "width":  768,
+                       "scrollWidth":  768,
+                       "bodyScrollWidth":  768,
+                       "overflow":  false,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ],
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "final home layout 1024",
+                       "passed":  true,
+                       "width":  1024,
+                       "scrollWidth":  1009,
+                       "bodyScrollWidth":  1009,
+                       "overflow":  false,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ],
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "final home layout 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "bodyScrollWidth":  1425,
+                       "overflow":  false,
+                       "broken":  [
+
+                                  ],
+                       "offenders":  [
+
+                                     ],
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "final menu patch opens with focus in navigation",
+                       "passed":  true,
+                       "expanded":  "true",
+                       "focusInNav":  true
+                   },
+                   {
+                       "name":  "final menu forward Tab remains in links",
+                       "passed":  true
+                   },
+                   {
+                       "name":  "final menu Escape restores toggle focus",
+                       "passed":  true,
+                       "expanded":  "false",
+                       "focusRestored":  true
+                   },
+                   {
+                       "name":  "direct project deep link expands details on load",
+                       "passed":  true,
+                       "open":  true,
+                       "visible":  true
+                   },
+                   {
+                       "name":  "contact empty submit identifies 4 fields and focuses name",
+                       "passed":  true,
+                       "state":  "error",
+                       "text":  "Revisa los siguientes 4 campos. Tus datos se conservan.Nombre: Escribe tu nombre.Correo electrónico: Escribe tu correo electrónico.Celular: Escribe tu número de celular.Mensaje: Escribe un mensaje.",
+                       "invalid":  [
+                                       "nombre",
+                                       "email",
+                                       "celular",
+                                       "mensaje"
+                                   ],
+                       "active":  "nombre",
+                       "values":  {
+                                      "nombre":  "",
+                                      "email":  "",
+                                      "celular":  "",
+                                      "mensaje":  ""
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "contact invalid email and telephone",
+                       "passed":  true,
+                       "state":  "error",
+                       "text":  "Revisa los siguientes 2 campos. Tus datos se conservan.Correo electrónico: Escribe un correo con un formato válido, por ejemplo nombre@dominio.com.Celular: Usa 09 seguido de 8 dígitos, como 0991234567, o +593991234567.",
+                       "invalid":  [
+                                       "email",
+                                       "celular"
+                                   ],
+                       "active":  "email",
+                       "values":  {
+                                      "nombre":  " Fernanda QA ",
+                                      "email":  "correo-invalido",
+                                      "celular":  "123",
+                                      "mensaje":  "Consulta de prueba; no enviar."
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "contact local telephone accepted and inputs preserved",
+                       "passed":  true,
+                       "state":  "success",
+                       "text":  "Datos válidos. No se ha enviado ningún mensaje. Para conversar, utiliza LinkedIn o WhatsApp. Tus datos permanecen en el formulario.",
+                       "invalid":  [
+
+                                   ],
+                       "active":  "validar-datos",
+                       "values":  {
+                                      "nombre":  " Fernanda QA ",
+                                      "email":  "qa@example.test",
+                                      "celular":  "099 123-4567",
+                                      "mensaje":  "Consulta de prueba; no enviar."
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "contact international telephone accepted and preserved",
+                       "passed":  true,
+                       "state":  "success",
+                       "text":  "Datos válidos. No se ha enviado ningún mensaje. Para conversar, utiliza LinkedIn o WhatsApp. Tus datos permanecen en el formulario.",
+                       "invalid":  [
+
+                                   ],
+                       "active":  "validar-datos",
+                       "values":  {
+                                      "nombre":  " Fernanda QA ",
+                                      "email":  "qa@example.test",
+                                      "celular":  "+593 99-123-4567",
+                                      "mensaje":  "Consulta de prueba; no enviar."
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "clear asks confirmation and focuses cancel",
+                       "passed":  true,
+                       "state":  "success",
+                       "text":  "Datos válidos. No se ha enviado ningún mensaje. Para conversar, utiliza LinkedIn o WhatsApp. Tus datos permanecen en el formulario.",
+                       "invalid":  [
+
+                                   ],
+                       "active":  "cancelar-borrado",
+                       "values":  {
+                                      "nombre":  " Fernanda QA ",
+                                      "email":  "qa@example.test",
+                                      "celular":  "+593 99-123-4567",
+                                      "mensaje":  "Consulta de prueba; no enviar."
+                                  },
+                       "confirmation":  true
+                   },
+                   {
+                       "name":  "cancel clear retains values and restores focus",
+                       "passed":  true,
+                       "state":  "success",
+                       "text":  "Datos válidos. No se ha enviado ningún mensaje. Para conversar, utiliza LinkedIn o WhatsApp. Tus datos permanecen en el formulario.",
+                       "invalid":  [
+
+                                   ],
+                       "active":  "solicitar-limpieza",
+                       "values":  {
+                                      "nombre":  " Fernanda QA ",
+                                      "email":  "qa@example.test",
+                                      "celular":  "+593 99-123-4567",
+                                      "mensaje":  "Consulta de prueba; no enviar."
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "Escape cancels clear safely",
+                       "passed":  true,
+                       "state":  "success",
+                       "text":  "Datos válidos. No se ha enviado ningún mensaje. Para conversar, utiliza LinkedIn o WhatsApp. Tus datos permanecen en el formulario.",
+                       "invalid":  [
+
+                                   ],
+                       "active":  "solicitar-limpieza",
+                       "values":  {
+                                      "nombre":  " Fernanda QA ",
+                                      "email":  "qa@example.test",
+                                      "celular":  "+593 99-123-4567",
+                                      "mensaje":  "Consulta de prueba; no enviar."
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "confirm clear empties fields and clears validation",
+                       "passed":  true,
+                       "state":  "info",
+                       "text":  "Se han borrado los datos del formulario. No se envió ningún mensaje.",
+                       "invalid":  [
+
+                                   ],
+                       "active":  "nombre",
+                       "values":  {
+                                      "nombre":  "",
+                                      "email":  "",
+                                      "celular":  "",
+                                      "mensaje":  ""
+                                  },
+                       "confirmation":  false
+                   },
+                   {
+                       "name":  "contact validation and clearing issue no network requests",
+                       "passed":  true,
+                       "requests":  [
+
+                                    ]
+                   },
+                   {
+                       "name":  "theme toggles to light",
+                       "passed":  true,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "theme persists across pages",
+                       "passed":  true,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light theme overflow index.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast index.html 390",
+                       "passed":  true,
+                       "minimumRatio":  5.60007627724022,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow 3_portafolio.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast 3_portafolio.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.114313603860672,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow 2_experienciaLaboral.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast 2_experienciaLaboral.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.114313603860672,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow 4_contactame.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast 4_contactame.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.114313603860672,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow index.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast index.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  5.60007627724022,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow 3_portafolio.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast 3_portafolio.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.114313603860672,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow 2_experienciaLaboral.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast 2_experienciaLaboral.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.114313603860672,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "light theme overflow 4_contactame.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "light"
+                   },
+                   {
+                       "name":  "light basic text contrast 4_contactame.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.114313603860672,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow index.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast index.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.359771101586098,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow 3_portafolio.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast 3_portafolio.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.768766271047486,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow 2_experienciaLaboral.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast 2_experienciaLaboral.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.768766271047486,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow 4_contactame.html 390",
+                       "passed":  true,
+                       "width":  390,
+                       "scrollWidth":  390,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast 4_contactame.html 390",
+                       "passed":  true,
+                       "minimumRatio":  6.768766271047486,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow index.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast index.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.359771101586098,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow 3_portafolio.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast 3_portafolio.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.768766271047486,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow 2_experienciaLaboral.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast 2_experienciaLaboral.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.768766271047486,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "dark theme overflow 4_contactame.html 1440",
+                       "passed":  true,
+                       "width":  1440,
+                       "scrollWidth":  1425,
+                       "theme":  "dark"
+                   },
+                   {
+                       "name":  "dark basic text contrast 4_contactame.html 1440",
+                       "passed":  true,
+                       "minimumRatio":  6.768766271047486,
+                       "failed":  [
+
+                                  ]
+                   },
+                   {
+                       "name":  "reduced motion computes scroll-behavior auto",
+                       "passed":  true
+                   },
+                   {
+                       "name":  "no-JS content and navigation index.html",
+                       "passed":  true,
+                       "navigationVisible":  true,
+                       "navigationLinks":  5,
+                       "h1":  "Fernanda\nRueda",
+                       "mainVisible":  true,
+                       "projects":  0,
+                       "buttons":  [
+
+                                   ]
+                   },
+                   {
+                       "name":  "no-JS content and navigation 3_portafolio.html",
+                       "passed":  true,
+                       "navigationVisible":  true,
+                       "navigationLinks":  5,
+                       "h1":  "Ideas que se convierten\nen proyectos.",
+                       "mainVisible":  true,
+                       "projects":  9,
+                       "buttons":  [
+
+                                   ]
+                   },
+                   {
+                       "name":  "no-JS all nine projects remain visible",
+                       "passed":  true,
+                       "navigationVisible":  true,
+                       "navigationLinks":  5,
+                       "h1":  "Ideas que se convierten\nen proyectos.",
+                       "mainVisible":  true,
+                       "projects":  9,
+                       "buttons":  [
+
+                                   ]
+                   },
+                   {
+                       "name":  "no-JS content and navigation 2_experienciaLaboral.html",
+                       "passed":  true,
+                       "navigationVisible":  true,
+                       "navigationLinks":  5,
+                       "h1":  "Aprender también\nes hacer.",
+                       "mainVisible":  true,
+                       "projects":  0,
+                       "buttons":  [
+
+                                   ]
+                   },
+                   {
+                       "name":  "no-JS content and navigation 4_contactame.html",
+                       "passed":  true,
+                       "navigationVisible":  true,
+                       "navigationLinks":  5,
+                       "h1":  "Conversemos.",
+                       "mainVisible":  true,
+                       "projects":  0,
+                       "buttons":  [
+                                       {
+                                           "id":  "validar-datos",
+                                           "disabled":  true,
+                                           "hidden":  true
+                                       },
+                                       {
+                                           "id":  "solicitar-limpieza",
+                                           "disabled":  true,
+                                           "hidden":  true
+                                       }
+                                   ]
+                   },
+                   {
+                       "name":  "no-JS contact actions disabled and hidden",
+                       "passed":  true,
+                       "navigationVisible":  true,
+                       "navigationLinks":  5,
+                       "h1":  "Conversemos.",
+                       "mainVisible":  true,
+                       "projects":  0,
+                       "buttons":  [
+                                       {
+                                           "id":  "validar-datos",
+                                           "disabled":  true,
+                                           "hidden":  true
+                                       },
+                                       {
+                                           "id":  "solicitar-limpieza",
+                                           "disabled":  true,
+                                           "hidden":  true
+                                       }
+                                   ]
+                   }
+               ],
+    "consoleErrors":  [
+
+                      ],
+    "httpErrors":  [
+
+                   ],
+    "failedRequests":  [
+
+                       ],
+    "requests":  [
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 320",
+                         "url":  "http://127.0.0.1:18787/favicon.svg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 320",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 320",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 320",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 320",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 320",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 320",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 320",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 320",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 320",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 320",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 360",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 360",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 360",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 360",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 360",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 360",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 360",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 360",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 360",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 360",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 360",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 390",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 390",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 390",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 390",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 390",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 390",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 390",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 390",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 390",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 390",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 390",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 768",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 768",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 768",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 768",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 768",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 768",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 768",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 768",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 768",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 768",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 768",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1024",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1024",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1024",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1024",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1024",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1024",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1024",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1024",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1024",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1024",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix index.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 3_portafolio.html 1440",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1440",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1440",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1440",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 2_experienciaLaboral.html 1440",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1440",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1440",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1440",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1440",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "matrix 4_contactame.html 1440",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "keyboard-menu",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "projects",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 768",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1024",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-home 1440",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-capture 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "final-menu-and-deeplink",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "contact",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "contact",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "contact",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "contact",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "contact",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/tema.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/app.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "theme-and-motion",
+                         "url":  "http://127.0.0.1:18787/contacto.js",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js index.html",
+                         "url":  "http://127.0.0.1:18787/index.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js index.html",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js index.html",
+                         "url":  "http://127.0.0.1:18787/img/fotoPerfil.jpg",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js index.html",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js index.html",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/3_portafolio.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/antisana1.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/antisana2.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/ipets.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/agenteViajero.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/sistemaAyudantes.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/agenteIA.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/tiendaMaruja.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/realidadAumentada.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/dronSimulator.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 3_portafolio.html",
+                         "url":  "http://127.0.0.1:18787/img/polinvaders.png",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 2_experienciaLaboral.html",
+                         "url":  "http://127.0.0.1:18787/2_experienciaLaboral.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 2_experienciaLaboral.html",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/4_contactame.html",
+                         "method":  "GET"
+                     },
+                     {
+                         "label":  "no-js 4_contactame.html",
+                         "url":  "http://127.0.0.1:18787/estilos.css",
+                         "method":  "GET"
+                     }
+                 ],
+    "captures":  [
+                     "docs/capturas/inicio-movil.png",
+                     "docs/capturas/proyectos-movil.png",
+                     "docs/capturas/contacto-movil.png",
+                     "docs/capturas/inicio-escritorio.png"
+                 ],
+    "started":  "2026-10-19T04:45:13.595Z",
+    "finished":  "2026-10-19T04:46:33.048Z",
+    "summary":  {
+                    "checks":  94,
+                    "passed":  94,
+                    "failed":  0,
+                    "consoleErrors":  0,
+                    "httpErrors":  0,
+                    "failedRequests":  0,
+                    "nonGetRequests":  0
+                },
+    "staticValidation":  {
+                             "htmlPages":  4,
+                             "externalScriptsChecked":  3,
+                             "brokenLocalLinks":  0,
+                             "duplicateIds":  0,
+                             "missingAltAttributes":  0,
+                             "originalImageHashesMatched":  14,
+                             "originalImageCount":  14,
+                             "originalProjectDescriptionsPreserved":  9,
+                             "originalBiographyPreserved":  true
+                         }
+}

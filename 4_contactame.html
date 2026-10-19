@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Conversa con Fernanda Rueda por LinkedIn o WhatsApp y prepara los datos de tu mensaje.">
+    <title>Conversemos | Fernanda Rueda</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <meta name="theme-color" content="#0d0d0d">
+    <script src="tema.js"></script>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="app.js" defer></script>
+    <script src="contacto.js" defer></script>
+</head>
+<body id="inicio">
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" aria-label="Fernanda Rueda, inicio">Fernanda Rueda<span class="brand-dot" aria-hidden="true">.</span></a>
+      <nav class="primary-navigation" id="primary-navigation" data-navigation aria-label="Navegación principal">
+        <a href="index.html">Inicio</a>
+        <a href="3_portafolio.html">Proyectos</a>
+        <a href="index.html#sobre-mi">Sobre mí</a>
+        <a href="2_experienciaLaboral.html">Experiencia</a>
+        <a href="4_contactame.html" aria-current="page">Contacto</a>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activar modo claro" aria-pressed="true" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+          <span data-theme-label>Modo claro</span>
+        </button>
+        <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation" hidden><span>Menú</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+    <main id="contenido" tabindex="-1">
+        <section class="section container contact-section" aria-labelledby="contacto-titulo">
+            <div class="page-intro">
+                <p class="eyebrow">CONTACTO</p>
+                <h1 id="contacto-titulo" class="section-title">Conversemos<span aria-hidden="true">.</span></h1>
+                <p>¿Tienes un proyecto en mente, una oportunidad o una pregunta? Me encantará saber de ti.</p>
+            </div>
+
+            <div class="contact-layout">
+                <aside class="contact-channels" aria-label="Canales de contacto">
+                    <a class="contact-channel" href="https://wa.me/593999999999" target="_blank" rel="noopener noreferrer">
+                        <h2>WhatsApp</h2>
+                        <p>Abre una conversación sobre tu idea o proyecto.</p>
+                        <span>Abrir WhatsApp <span aria-hidden="true">↗</span><span class="sr-only"> (se abre en otra pestaña)</span></span>
+                    </a>
+                    <a class="contact-channel" href="https://www.linkedin.com/in/ruth-fernanda-rueda" target="_blank" rel="noopener noreferrer">
+                        <h2>LinkedIn</h2>
+                        <p>Conectemos y conversemos profesionalmente.</p>
+                        <span>Ver perfil <span aria-hidden="true">↗</span><span class="sr-only"> (se abre en otra pestaña)</span></span>
+                    </a>
+                    <a class="contact-channel" href="https://github.com/fernygeek" target="_blank" rel="noopener noreferrer">
+                        <h2>GitHub</h2>
+                        <p>Consulta mi perfil y el código que comparto.</p>
+                        <span>Explorar GitHub <span aria-hidden="true">↗</span><span class="sr-only"> (se abre en otra pestaña)</span></span>
+                    </a>
+                </aside>
+
+                <section class="contact-form-panel" aria-labelledby="formulario-titulo">
+                    <h2 id="formulario-titulo">Prepara tu mensaje</h2>
+                    <p id="formulario-ayuda" class="field-help">Este formulario comprueba los datos; para conversar, utiliza LinkedIn o WhatsApp.</p>
+                    <p class="field-help">Todos los campos son obligatorios. Esta página no envía ni guarda tus datos.</p>
+                    <form id="formulario-contacto" aria-describedby="formulario-ayuda">
+                        <div class="form-grid">
+                            <div class="form-field">
+                                <label for="nombre">Nombre <span aria-hidden="true">*</span></label>
+                                <input type="text" id="nombre" name="nombre" autocomplete="name" placeholder="Tu nombre" required>
+                                <p id="nombre-error" class="field-error" hidden></p>
+                            </div>
+                            <div class="form-field">
+                                <label for="email">Correo electrónico <span aria-hidden="true">*</span></label>
+                                <input type="email" id="email" name="email" autocomplete="email" placeholder="nombre@dominio.com" required>
+                                <p id="email-error" class="field-error" hidden></p>
+                            </div>
+                            <div class="form-field">
+                                <label for="celular">Celular <span aria-hidden="true">*</span></label>
+                                <input type="tel" id="celular" name="celular" autocomplete="tel" inputmode="tel" placeholder="0991234567" pattern="(?:09[0-9]{8}|\+5939[0-9]{8})" aria-describedby="celular-ayuda" required>
+                                <p id="celular-ayuda" class="field-help">Número ecuatoriano: 09 seguido de 8 dígitos, por ejemplo 0991234567. También puedes usar +593991234567. Se admiten espacios y guiones.</p>
+                                <p id="celular-error" class="field-error" hidden></p>
+                            </div>
+                            <div class="form-field form-field-full">
+                                <label for="mensaje">Mensaje <span aria-hidden="true">*</span></label>
+                                <textarea id="mensaje" name="mensaje" rows="6" placeholder="Cuéntame sobre tu idea o consulta" required></textarea>
+                                <p id="mensaje-error" class="field-error" hidden></p>
+                            </div>
+                        </div>
+
+                        <div class="form-actions">
+                            <button id="validar-datos" type="submit" class="button button-primary" hidden disabled>Validar datos</button>
+                            <button id="solicitar-limpieza" type="button" class="button button-secondary" aria-controls="confirmar-limpieza" aria-expanded="false" hidden disabled>Limpiar</button>
+                        </div>
+
+                        <div id="confirmar-limpieza" class="reset-confirmation" role="group" aria-labelledby="limpieza-pregunta" hidden>
+                            <p id="limpieza-pregunta">¿Quieres borrar los datos que has escrito? No podrás recuperarlos desde este formulario.</p>
+                            <div class="form-actions">
+                                <button id="confirmar-borrado" type="button" class="button button-secondary">Sí, borrar los datos</button>
+                                <button id="cancelar-borrado" type="button" class="button button-secondary">Conservar datos</button>
+                            </div>
+                        </div>
+
+                        <div id="estado-formulario" class="form-status" role="status" aria-live="polite" aria-atomic="true"></div>
+                        <noscript>
+                            <p class="field-help">Para validar estos campos necesitas JavaScript. Puedes contactar directamente por <a href="https://www.linkedin.com/in/ruth-fernanda-rueda">LinkedIn</a> o <a href="https://wa.me/593999999999">WhatsApp</a>.</p>
+                        </noscript>
+                    </form>
+                </section>
+            </div>
+        </section>
+    </main>
+
+  <footer class="site-footer"><div class="container footer-inner"><p>© 2026 Fernanda Rueda. Todos los derechos reservados.</p><div class="footer-links"><a href="https://github.com/fernygeek" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="https://www.linkedin.com/in/ruth-fernanda-rueda" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="#inicio">Volver arriba <span aria-hidden="true">↑</span></a></div></div></footer>
+</body>
+</html>
