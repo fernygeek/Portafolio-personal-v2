@@ -1,5 +1,5 @@
 (() => {
-  // Apply the saved theme before the page paints. The approved design opens dark.
+  // Apply the saved theme before paint; the reference uses midnight panels by default.
   let theme = 'dark';
   try {
     const saved = localStorage.getItem('fernanda-tema');

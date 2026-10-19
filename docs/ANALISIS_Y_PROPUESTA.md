@@ -1,5 +1,7 @@
 # Análisis y propuesta de rediseño
 
+**Documento histórico:** el análisis de la fuente y la elección inicial se conservan aquí. La solicitud posterior del 19 de octubre de 2026 cambió el estilo y la distribución; el diseño vigente se documenta en [DISENO_VERDE.md](DISENO_VERDE.md) y sus pruebas en [EVALUACION_HEURISTICAS.md](../EVALUACION_HEURISTICAS.md).
+
 Fecha de análisis: 18 de octubre de 2026. Estado: **propuesta anterior aprobada para desarrollo e implementada localmente**. Las comprobaciones finales se registran en [EVALUACION_HEURISTICAS.md](../EVALUACION_HEURISTICAS.md).
 
 Decisión de la usuaria: «desarrollemos la propuesta anterior». Se implementó la composición en negro y naranja con navegación superior, nombre grande a la izquierda y retrato a la derecha. La alternativa con perfil lateral se conserva como documentación de diseño.

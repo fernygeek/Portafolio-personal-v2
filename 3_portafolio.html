@@ -6,7 +6,7 @@
     <meta name="description" content="Los proyectos de Fernanda Rueda: desarrollo de software, inteligencia artificial, análisis de datos y computación gráfica.">
     <title>Proyectos — Fernanda Rueda</title>
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
-    <meta name="theme-color" content="#0d0d0d">
+    <meta name="theme-color" content="#dff3e7">
     <script src="tema.js"></script>
     <link rel="stylesheet" href="estilos.css">
     <script src="app.js" defer></script>
@@ -14,33 +14,33 @@
 <body id="inicio">
     <a class="skip-link" href="#contenido">Saltar al contenido</a>
   <header class="site-header">
-    <div class="container header-inner">
-      <a class="brand" href="index.html" aria-label="Fernanda Rueda, inicio">Fernanda Rueda<span class="brand-dot" aria-hidden="true">.</span></a>
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="Fernanda Rueda, inicio">FERNANDA<span class="brand-dot">.</span></a>
       <nav class="primary-navigation" id="primary-navigation" data-navigation aria-label="Navegación principal">
         <a href="index.html">Inicio</a>
-        <a href="3_portafolio.html" aria-current="page">Proyectos</a>
         <a href="index.html#sobre-mi">Sobre mí</a>
         <a href="2_experienciaLaboral.html">Experiencia</a>
+        <a href="3_portafolio.html" aria-current="page">Proyectos</a>
+        <a href="index.html#habilidades">Habilidades</a>
         <a href="4_contactame.html">Contacto</a>
       </nav>
       <div class="header-actions">
-        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activar modo claro" aria-pressed="true" hidden>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
-          <span data-theme-label>Modo claro</span>
-        </button>
-        <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation" hidden><span>Menú</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activar modo claro" aria-pressed="true" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg><span class="sr-only" data-theme-label>Modo claro</span></button>
+        <a class="button nav-contact" href="4_contactame.html">Hablemos <span aria-hidden="true">↗</span></a>
+        <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation" hidden><span>Menú</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
       </div>
     </div>
   </header>
 
-    <main id="contenido" tabindex="-1">
-        <section class="page-intro container" aria-labelledby="proyectos-titulo">
+    <main id="contenido" class="interior-main container" tabindex="-1">
+        <div class="interior-surface">
+        <section class="page-intro" aria-labelledby="proyectos-titulo">
             <p class="eyebrow">PORTAFOLIO</p>
-            <h1 class="section-title" id="proyectos-titulo">Ideas que se convierten<br>en <em>proyectos.</em></h1>
+            <h1 class="section-title" id="proyectos-titulo">Mis proyectos</h1>
             <p>Explora los proyectos que he desarrollado, aplicando mis habilidades en diferentes tecnologías y áreas.</p>
         </section>
 
-        <section class="section container projects-section" aria-label="Mis proyectos">
+        <section class="section projects-section" aria-label="Mis proyectos">
             <div class="project-filters" data-project-filters role="group" aria-label="Filtrar proyectos por tecnología" hidden>
                 <button type="button" data-filter="all" aria-pressed="true">Todos <span aria-hidden="true">09</span></button>
                 <button type="button" data-filter="java" aria-pressed="false">Java</button>
@@ -197,12 +197,14 @@
             </div>
         </section>
 
-        <section class="contact-banner container section" aria-labelledby="proyectos-contacto-titulo">
+        </div>
+
+        <section class="contact-banner section" aria-labelledby="proyectos-contacto-titulo">
             <div><p class="eyebrow">SIGAMOS CONVERSANDO</p><h2 class="section-title" id="proyectos-contacto-titulo">¿Tienes una idea<br>en <em>mente?</em></h2><p>Me encantará conocer tu proyecto y conversar.</p></div>
             <a class="button button-primary" href="4_contactame.html">Hablemos <span aria-hidden="true">↗</span></a>
         </section>
     </main>
 
-  <footer class="site-footer"><div class="container footer-inner"><p>© 2026 Fernanda Rueda. Todos los derechos reservados.</p><div class="footer-links"><a href="https://github.com/fernygeek" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="https://www.linkedin.com/in/ruth-fernanda-rueda" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="#inicio">Volver arriba <span aria-hidden="true">↑</span></a></div></div></footer>
+  <footer class="site-footer container"><div class="footer-inner"><p>© 2026 Fernanda Rueda. Todos los derechos reservados.</p><div class="footer-links"><a href="https://github.com/fernygeek" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="https://www.linkedin.com/in/ruth-fernanda-rueda" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span><span class="sr-only"> (abre otra pestaña)</span></a><a href="#inicio">Volver arriba <span aria-hidden="true">↑</span></a></div></div></footer>
 </body>
 </html>

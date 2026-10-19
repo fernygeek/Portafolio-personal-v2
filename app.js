@@ -1,4 +1,23 @@
 (() => {
+  // Preserve incoming links to the sections that now have their own documents.
+  const formerSections = {
+    'sobre-mi': 'sobre-mi.html',
+    experiencia: '2_experienciaLaboral.html',
+    formacion: 'formacion.html',
+    proyectos: '3_portafolio.html',
+    habilidades: 'habilidades.html',
+    contacto: '4_contactame.html'
+  };
+  function followFormerSection() {
+    if (!location.pathname.endsWith('/') && !location.pathname.endsWith('/index.html')) return false;
+    const destination = formerSections[location.hash.slice(1)];
+    if (!destination) return false;
+    location.replace(new URL(destination, location.href).href);
+    return true;
+  }
+  if (followFormerSection()) return;
+  window.addEventListener('hashchange', followFormerSection);
+
   const root = document.documentElement;
   const themeButton = document.querySelector('[data-theme-toggle]');
   function applyTheme(theme) {
@@ -12,7 +31,7 @@
       const label = themeButton.querySelector('[data-theme-label]');
       if (label) label.textContent = dark ? 'Modo claro' : 'Modo oscuro';
     }
-    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#0d0d0d' : '#fafafa');
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#dff3e7' : '#e5f5e9');
   }
   applyTheme(root.dataset.theme || 'dark');
   if (themeButton) {
@@ -74,7 +93,7 @@
     document.addEventListener('focusin', event => {
       if (!header.contains(event.target) && menuButton.getAttribute('aria-expanded') === 'true') setMenu(false);
     });
-    window.matchMedia('(min-width: 881px)').addEventListener('change', event => {
+    window.matchMedia('(min-width: 1001px)').addEventListener('change', event => {
       if (event.matches) setMenu(false);
     });
   }
